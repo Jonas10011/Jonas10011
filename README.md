@@ -2,9 +2,9 @@
 
 ## 🧭 关于我
 
-- 🔧 零编程经验，用 AI 开发产品和自动化工具
-- 🛒 做过电商，现在转型 AI 产品方向
-- 📝 正在学习如何把开发过程变成内容
+- 🔧 正在学习如何使用 AI 开发产品和自动化工具
+- 🛒 做过电商和销售，零编程经验现在转型 AI 产品方向
+- 📝 正在学习如何把开发过程变成自媒体内容
 - 📍 杭州
 
 ## 🛠️ 技术栈
@@ -12,14 +12,14 @@
 <p>
   <img src="https://img.shields.io/badge/Claude-Code-blue?style=flat&logo=anthropic" alt="Claude">
   <img src="https://img.shields.io/badge/Cursor-purple?style=flat&logo=cursor" alt="Cursor">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js" alt="Node.js">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" alt="Codex">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js" alt="Trae">
 </p>
 
 ## 📫 联系方式
 
 - 📧 Email: s2926204728@gmail.com
-- 🐦 Twitter: @Jonas10011
+- 🐦 Twitter: @Labixiaoxin301
 
 ## 📊 GitHub 统计
 
